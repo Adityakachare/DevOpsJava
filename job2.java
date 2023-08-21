@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.Scanner;
  
-class GFG {
+class job2 {
     public static void main(String[] args)
     {
  
