@@ -4,7 +4,7 @@
 // amount, time and rate of interest.
 import java.io.*;
  
-class GFG {
+class job3 {
     public static void main(String args[])
     {
         // We can change values here for
